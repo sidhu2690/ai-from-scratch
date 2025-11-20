@@ -1,42 +1,46 @@
 # AI From Scratch
 
-A simple collection of notebooks showing how core machine learning ideas can be built from scratch.
+A comprehensive collection of Jupyter notebooks for learning AI fundamentals from the ground up.
 
-## Directory Structure
+## 📚 Repository Structure
 
 ```
 ai-from-scratch/
 │
-├── [Gradient_Descent/](https://github.com/sidhu2690/ai-from-scratch/tree/main/Gradient_Descent)
+├── 📁 Gradient Descent
 │   ├── 00_Gradient_Descent.ipynb
 │   ├── 01_Gradient_Descent.ipynb
 │   ├── 02_Gradient_Descent.ipynb
 │   ├── 03_Gradient_Descent.ipynb
 │   └── 04_Gradient_Descent.ipynb
 │
-└── [PyTorch/](https://github.com/sidhu2690/ai-from-scratch/tree/main/PyTorch)
+└── 📁 PyTorch
     ├── 00_PyTorch_Basics.ipynb
     └── 01_PyTorch_Basics.ipynb
 ```
 
-### Gradient_Descent
+## 🔗 Quick Links
 
-Basic implementations of:
+### [Gradient Descent](https://github.com/sidhu2690/ai-from-scratch/tree/main/Gradient_Descent)
+- [00_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/00_Gradient_Descent.ipynb)
+- [01_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/01_Gradient_Descent.ipynb)
+- [02_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/02_Gradient_Descent.ipynb)
+- [03_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/03_Gradient_Descent.ipynb)
+- [04_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/04_Gradient_Descent.ipynb)
 
-* Gradient Descent
-* SGD
-* Mini-Batch GD
-* Momentum
-* Nesterov
+### [PyTorch](https://github.com/sidhu2690/ai-from-scratch/tree/main/PyTorch)
+- [00_PyTorch_Basics.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/PyTorch/00_PyTorch_Basics.ipynb)
+- [01_PyTorch_Basics.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/PyTorch/01_PyTorch_Basics.ipynb)
 
-👉 [https://github.com/sidhu2690/ai-from-scratch/tree/main/Gradient_Descent](https://github.com/sidhu2690/ai-from-scratch/tree/main/Gradient_Descent)
+## 🚀 Getting Started
 
-### PyTorch
+Clone the repository and explore the notebooks:
 
-Small notebooks to learn PyTorch basics.
+```bash
+git clone https://github.com/sidhu2690/ai-from-scratch.git
+cd ai-from-scratch
+```
 
-👉 [https://github.com/sidhu2690/ai-from-scratch/tree/main/PyTorch](https://github.com/sidhu2690/ai-from-scratch/tree/main/PyTorch)
+## 📝 License
 
----
-
-More notebooks will be added as the project grows.
+This project is open source and available for educational purposes.
