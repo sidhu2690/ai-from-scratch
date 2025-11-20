@@ -7,12 +7,14 @@ A comprehensive collection of Jupyter notebooks for learning AI fundamentals fro
 ```
 ai-from-scratch/
 │
-├── 📁 Gradient Descent
-│   ├── 00_Gradient_Descent.ipynb
-│   ├── 01_Gradient_Descent.ipynb
-│   ├── 02_Gradient_Descent.ipynb
-│   ├── 03_Gradient_Descent.ipynb
-│   └── 04_Gradient_Descent.ipynb
+├── 📁 Optimizers
+│   ├── 00_Optimizers.ipynb
+│   └── 📁 Gradient_Descent
+│       ├── 00_Gradient_Descent.ipynb
+│       ├── 01_Gradient_Descent.ipynb
+│       ├── 02_Gradient_Descent.ipynb
+│       ├── 03_Gradient_Descent.ipynb
+│       └── 04_Gradient_Descent.ipynb
 │
 └── 📁 PyTorch
     ├── 00_PyTorch_Basics.ipynb
@@ -21,12 +23,15 @@ ai-from-scratch/
 
 ## 🔗 Quick Links
 
-### [Gradient Descent](https://github.com/sidhu2690/ai-from-scratch/tree/main/Gradient_Descent)
-- [00_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/00_Gradient_Descent.ipynb)
-- [01_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/01_Gradient_Descent.ipynb)
-- [02_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/02_Gradient_Descent.ipynb)
-- [03_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/03_Gradient_Descent.ipynb)
-- [04_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Gradient_Descent/04_Gradient_Descent.ipynb)
+### [Optimizers](https://github.com/sidhu2690/ai-from-scratch/tree/main/Optimizers)
+- [00_Optimizers.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/00_Optimizers.ipynb)
+
+#### Gradient Descent
+- [00_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/00_Gradient_Descent.ipynb)
+- [01_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/01_Gradient_Descent.ipynb)
+- [02_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/02_Gradient_Descent.ipynb)
+- [03_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/03_Gradient_Descent.ipynb)
+- [04_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/04_Gradient_Descent.ipynb)
 
 ### [PyTorch](https://github.com/sidhu2690/ai-from-scratch/tree/main/PyTorch)
 - [00_PyTorch_Basics.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/PyTorch/00_PyTorch_Basics.ipynb)
