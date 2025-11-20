@@ -32,8 +32,7 @@ ai-from-scratch/
 - [00_PyTorch_Basics.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/PyTorch/00_PyTorch_Basics.ipynb)
 - [01_PyTorch_Basics.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/PyTorch/01_PyTorch_Basics.ipynb)
 
-## 🚀 Getting Started
-
+---
 Clone the repository and explore the notebooks:
 
 ```bash
@@ -41,6 +40,3 @@ git clone https://github.com/sidhu2690/ai-from-scratch.git
 cd ai-from-scratch
 ```
 
-## 📝 License
-
-This project is open source and available for educational purposes.
