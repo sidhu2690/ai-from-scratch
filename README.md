@@ -2,8 +2,9 @@
 
 A comprehensive collection of Jupyter notebooks for learning AI fundamentals from the ground up.
 
-## Repository Structure
+## 📚 Repository Structure
 
+```
 ai-from-scratch/
 │
 ├── Optimizers
@@ -23,50 +24,34 @@ ai-from-scratch/
 └── PyTorch
     ├── 00_PyTorch_Basics.ipynb
     └── 01_PyTorch_Basics.ipynb
+```
 
+## 🔗 Quick Links
 
-## Quick Links
+### [Optimizers](https://github.com/sidhu2690/ai-from-scratch/tree/main/Optimizers)
+- [00_Optimizers.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/00_Optimizers.ipynb)
 
-Optimizers:
-https://github.com/sidhu2690/ai-from-scratch/tree/main/Optimizers
+#### Gradient Descent
+- [00_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/00_Gradient_Descent.ipynb)
+- [01_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/01_Gradient_Descent.ipynb)
+- [02_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/02_Gradient_Descent.ipynb)
+- [03_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/03_Gradient_Descent.ipynb)
+- [04_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/04_Gradient_Descent.ipynb)
 
-00_optimizers.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/00_optimizers.ipynb
+### [PyTorch](https://github.com/sidhu2690/ai-from-scratch/tree/main/PyTorch)
+- [00_PyTorch_Basics.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/PyTorch/00_PyTorch_Basics.ipynb)
+- [01_PyTorch_Basics.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/PyTorch/01_PyTorch_Basics.ipynb)
 
-Gradient Descent:
-https://github.com/sidhu2690/ai-from-scratch/tree/main/Optimizers/Gradient_Descent
+### [Perceptron](https://github.com/sidhu2690/ai-from-scratch/tree/main/Perceptron)
+- [00_perceptron.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Perceptron/00_perceptron.ipynb)
+- [01_multi_layer_perceptron.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Perceptron/01_multi_layer_perceptron.ipynb)
+- [backprop.pdf](https://github.com/sidhu2690/ai-from-scratch/blob/main/Perceptron/backprop.pdf)
 
-00_Gradient_Descent.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/00_Gradient_Descent.ipynb
-01_Gradient_Descent.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/01_Gradient_Descent.ipynb
-02_Gradient_Descent.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/02_Gradient_Descent.ipynb
-03_Gradient_Descent.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/03_Gradient_Descent.ipynb
-04_Gradient_Descent.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/04_Gradient_Descent.ipynb
+---
+Clone the repository and explore the notebooks:
 
-Perceptron:
-https://github.com/sidhu2690/ai-from-scratch/tree/main/Perceptron
-
-00_perceptron.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/Perceptron/00_perceptron.ipynb
-01_multi_layer_perceptron.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/Perceptron/01_multi_layer_perceptron.ipynb
-backprop.pdf:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/Perceptron/backprop.pdf
-
-PyTorch:
-https://github.com/sidhu2690/ai-from-scratch/tree/main/PyTorch
-
-00_PyTorch_Basics.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/PyTorch/00_PyTorch_Basics.ipynb
-01_PyTorch_Basics.ipynb:
-https://github.com/sidhu2690/ai-from-scratch/blob/main/PyTorch/01_PyTorch_Basics.ipynb
-
-
-# Clone the repository:
-
+```bash
 git clone https://github.com/sidhu2690/ai-from-scratch.git
 cd ai-from-scratch
+```
+
