@@ -56,6 +56,6 @@ cd ai-from-scratch
 ```
 
 ---
-![Visitors](https://revalation.dev/api/counter/sidhu2690_ai-from-scratch.svg)
+![Visitors](https://hits-app.vercel.app/hits?repo=sidhu2690/ai-from-scratch)
 
 
