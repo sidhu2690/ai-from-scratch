@@ -56,6 +56,6 @@ cd ai-from-scratch
 ```
 
 ---
-![Visitors](https://raw.githubusercontent.com/sidhu2690/ai-from-scratch/main/visitors.md)
+![Visitors](https://revalation.dev/api/counter/sidhu2690_ai-from-scratch.svg)
 
 
