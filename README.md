@@ -56,6 +56,6 @@ cd ai-from-scratch
 ```
 
 ---
-![Visitors](https://hits.sh/sidhu2690/ai-from-scratch.svg?style=flat-square)
+https://api.countapi.xyz/create?namespace=sidhu2690&key=ai-from-scratch&value=0
 
 
