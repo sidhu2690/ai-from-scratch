@@ -55,3 +55,7 @@ git clone https://github.com/sidhu2690/ai-from-scratch.git
 cd ai-from-scratch
 ```
 
+---
+![Hits](https://hits.sh/sidhu2690/ai-from-scratch.svg)
+
+
