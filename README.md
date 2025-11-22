@@ -56,6 +56,6 @@ cd ai-from-scratch
 ```
 
 ---
-![Visitors](https://hits.sh/sidhu2690/ai-from-scratch.svg?style=flat-square&label=Visits)
+![Visitors](https://hits.sh/sidhu2690/ai-from-scratch.svg?style=flat-square)
 
 
