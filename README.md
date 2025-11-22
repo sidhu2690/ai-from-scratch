@@ -56,6 +56,6 @@ cd ai-from-scratch
 ```
 
 ---
-![Visitors](https://hits-app.vercel.app/hits?repo=sidhu2690/ai-from-scratch)
+![Visits](https://visitor-badge-self.vercel.app//api/badge/9319a8de-9932-428e-abec-c2caded624b5?style=flat-square&color=FFD700&labelColor=0d1117)
 
 
