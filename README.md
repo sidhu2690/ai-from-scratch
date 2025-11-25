@@ -36,7 +36,7 @@ ai-from-scratch/
 ### [Optimizers](https://github.com/sidhu2690/ai-from-scratch/tree/main/Optimizers)
 - [00_Optimizers.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/00_Optimizers.ipynb)
 
-#### Gradient Descent
+#### [Gradient Descent](https://github.com/sidhu2690/ai-from-scratch/tree/main/Optimizers/Gradient_Descent)
 - [00_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/00_Gradient_Descent.ipynb)
 - [01_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/01_Gradient_Descent.ipynb)
 - [02_Gradient_Descent.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Optimizers/Gradient_Descent/02_Gradient_Descent.ipynb)
