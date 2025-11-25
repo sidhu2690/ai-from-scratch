@@ -58,6 +58,8 @@ ai-from-scratch/
 - [02_CNN.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/CNN/02_CNN.ipynb)
 - [03_CNN.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/CNN/03_CNN.ipynb)
 
+### [YOLO-V8](https://github.com/sidhu2690/YOLO_V8_PyTorch/)
+- [00_YOLO.ipynb](https://github.com/sidhu2690/YOLO_V8_PyTorch/blob/main/00_YOLO.ipynb)
 ---
 Clone the repository and explore the notebooks:
 
