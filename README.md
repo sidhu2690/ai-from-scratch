@@ -22,8 +22,13 @@ ai-from-scratch/
 │   └── backprop.pdf
 │
 └── PyTorch
-    ├── 00_PyTorch_Basics.ipynb
-    └── 01_PyTorch_Basics.ipynb
+|    ├── 00_PyTorch_Basics.ipynb
+|    └── 01_PyTorch_Basics.ipynb
+├── CNN
+│   ├── 00_CNN.ipynb
+│   ├── 01_CNN.ipynb
+│   ├── 02_CNN.ipynb
+|   └── 03_CNN.ipynb
 ```
 
 ## 🔗 Quick Links
@@ -46,6 +51,12 @@ ai-from-scratch/
 - [00_perceptron.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Perceptron/00_perceptron.ipynb)
 - [01_multi_layer_perceptron.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/Perceptron/01_multi_layer_perceptron.ipynb)
 - [backprop.pdf](https://github.com/sidhu2690/ai-from-scratch/blob/main/Perceptron/backprop.pdf)
+
+### [CNN](https://github.com/sidhu2690/ai-from-scratch/tree/main/CNN)
+- [00_CNN.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/CNN/00_CNN.ipynb)
+- [01_CNN.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/CNN/01_CNN.ipynb)
+- [02_CNN.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/CNN/02_CNN.ipynb)
+- [03_CNN.ipynb](https://github.com/sidhu2690/ai-from-scratch/blob/main/CNN/03_CNN.ipynb)
 
 ---
 Clone the repository and explore the notebooks:
