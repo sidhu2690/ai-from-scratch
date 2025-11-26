@@ -8,7 +8,7 @@ A comprehensive collection of Jupyter notebooks for learning AI fundamentals fro
 ai-from-scratch/
 │
 ├── Optimizers
-│   ├── 00_optimizers.ipynb
+│   ├── 00_optimizers.ipynb 
 │   └── Gradient_Descent
 │       ├── 00_Gradient_Descent.ipynb
 │       ├── 01_Gradient_Descent.ipynb
